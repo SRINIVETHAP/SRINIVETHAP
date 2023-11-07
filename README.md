@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivethap&label=Profile%20views&color=0e75b6&style=flat" alt="srinivethap" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT,REACTJS**
+- 🌱 I’m currently learning **REACTJS**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS, javascript**
 
 - 📫 How to reach me **srinivetha.ig20@bitsathy.ac.in,srinivetha2020@gmail.com**
 
