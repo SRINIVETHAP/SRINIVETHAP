@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **REACTJS**
 
-- 💬 Ask me about **HTML,CSS, javascript**
+- 💬 Ask me about **HTML,CSS, javascript, Python**
 
 - 📫 How to reach me **srinivetha.ig20@bitsathy.ac.in,srinivetha2020@gmail.com**
 
